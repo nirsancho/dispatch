@@ -1,0 +1,3 @@
+
+add_executable(test_dispatch test_dispatch.cxx)
+target_link_libraries(test_dispatch dispatch)
